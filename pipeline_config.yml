@@ -27,12 +27,12 @@ general:
   automaticVersioning: true
   collectTelemetryData: false
   unsafeMode: true
-  gitCredentialsId: " GithubWdfCredentials"
-  extensionRepository: 'https://github.wdf.sap.corp/MA/cloud-s4-sdk-pipeline-extensions.git -b v28'
-  xMake:
-    jobName: "fxperience-bangalore/FXperience-Bangalore-supplier-issue-process-SP-MS-common"
-    buildQuality: "Milestone"
-    novaCredentialsId: "xmakeNova"
+#  gitCredentialsId: " GithubWdfCredentials"
+#  extensionRepository: 'https://github.wdf.sap.corp/MA/cloud-s4-sdk-pipeline-extensions.git -b v28'
+#  xMake:
+#    jobName: "fxperience-bangalore/FXperience-Bangalore-supplier-issue-process-SP-MS-common"
+#    buildQuality: "Milestone"
+#    novaCredentialsId: "xmakeNova"
 
 
 ### Step-specific configuration
